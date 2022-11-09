@@ -1,0 +1,3 @@
+[submodule "yunvim"]
+	path = yunvim
+	url = git@github.com:GeeKaven/yunvim.git
