@@ -39,5 +39,6 @@ yabai -m rule --add app="^Karabiner-Elements$" manage=off
 yabai -m rule --add app="^Telegram$" manage=off
 yabai -m rule --add app="^Mail$" manage=off
 yabai -m rule --add app="^邮件$" manage=off
+yabai -m rule --add app="^访达$" manage=off
 
 echo "yabai configuration loaded.."
