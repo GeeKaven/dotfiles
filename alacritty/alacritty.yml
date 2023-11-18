@@ -13,7 +13,7 @@ window:
   dimensions:
     columns: 106
     lines: 25
-  option_as_alt: OnlyLeft
+  option_as_alt: Both
 
 scrolling:
   # 回滚缓冲区中的最大行数,指定“0”将禁用滚动。
